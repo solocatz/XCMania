@@ -32,12 +32,6 @@ When using third party services to upload your log, or to perform life tracking 
 The XCMania app uses the collected data solely in order to provide the service to you, and to provide you with the IGC log after a flight. The data is never exported outside the app, unless you explicitly take action yourself to enable that. The following data is collected.
 Location information is stored in the IGC log which is kept inside the app.
 
-## Transfer Of Data
-
-Your data is never transfered outside the app without explicit action by you.
-When explicitly enacted by you, the IGC log is uploaded to a flight server such as XContest, shared with other apps, or shared in other ways that you choose.
-The app uses the 3rd party service to show your location on the map. This may provide 3rd party with your approximate location associated with your IP address.
-
 ## Disclosure Of Data
 
 Legal Requirements
