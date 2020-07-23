@@ -7,7 +7,7 @@ Please read this Agreement carefully before accessing or using the XCMania Platf
 We define an "active account" as logging into your XCMania account at least one time per month, and then taking some other action. Maintaining an active account is required to maintain access to XCMania.
 
 
-# Responsibility of Users/Contributors
+## Responsibility of Users/Contributors
 If you make (or allow any third party to make) material available by means of the XCMania product or an app created and/or published through the XCMania product (all such material to be hereinafter referenced to as “Content”), you are entirely responsible for the content of, and any harm resulting from, that Content, regardless of whether the Content in question constitutes text, graphics, pictures, images, data files, photographs, links, designs, an audio or video file, or any other like materials to be used in an app. 
 
 By making Content available, you represent and warrant that:
@@ -30,63 +30,63 @@ and your app is not named in a manner that misleads your readers into thinking t
 
 For example, your app’s URL or name is not the name of a person other than yourself or company other than your own;your use of the XCMania product does not disrupt, interfere with, or inhibit any other User from using and enjoying the XCMania Platform; and your use of the XCMania product does not intentionally or unintentionally engage in any activity prohibited by the TOS.
 
-# License Grant
+## License Grant
 Subject to your agreement and compliance with the terms and conditions of this TOS, XCMania grants to each user who creates and maintains a separate account a limited, personal, non-exclusive, non-transferable and revocable license (without the right to sublicense) to use, access, display and run the App product on any computer or device that you own or that is under your control for your personal or internal business use. For the avoidance of doubt, the foregoing license may not be shared or used concurrently to allow anyone other than the individual who created and maintains the user account to access, display, run, and/or use the App product.
 
 The use of the XCMania Platform without the payment of the applicable license fee is outside the scope of the foregoing license and a violation of these TOS and United States (“U.S.”) and international copyright laws.
 
-# Payment and Renewal General Terms
+## Payment and Renewal General Terms
 XCMania offers several service plans and payment options to allow each user to be assigned a service plan that best fits that user’s specific needs. By agreeing to a specific service plan, you agree to pay XCMania the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for a service plan and will cover the use of that service for a monthly or annual subscription period as indicated.
 
-# Automatic Renewal
+## Automatic Renewal
 Unless you notify XCMania before the end of the applicable subscription period that you want to cancel a service plan, your service plan subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such service plan as well as any taxes) using any credit card or other payment mechanism we have on record for you. Service plans can be canceled at any time by contacting XCMania.
 
-# Account Upgrade
+## Account Upgrade
 After you publish your app or apps you can only upgrade your account and may not downgrade your account to a lower service plan.
 
-# Restricted Use
+## Restricted Use
 You may not use the XCMania Platform or XCMania product to substantially replicate XCMania Platforms or services offered by XCMania, including the republication of XCMania content or the creation of a separate XCMania product or content management tool substantially similar to the XCMania product. If XCMania determines or believes, in its sole discretion, that you have violated or attempted to violate these conditions or the spirit of these terms, your ability to use and access the XCMania Platform may be temporarily or permanently revoked, with or without notice.
 
-# Past Due Accounts
+## Past Due Accounts
 To the extent that any account becomes past due or the form of payment maintained on behalf of that account is denied when charged for subscription or other fees that become due, XCMania will notify you that your account is past due and will then attempt, fifteen days later, to again process payment for amounts due on your account using the form of payment maintained on file for your account. To the extent that your account is past due for thirty or more days, that account will be frozen and inaccessible until payment of all past due amounts is received by XCMania. To be clear as to the effect and consequence of such account freezing, the app(s), including content, associated with any given XCMania user account are hosted and maintained solely through the XCMania Platform, and the freezing of an XCMania user account will make any apps created on that account, including their content, inaccessible both to the user and any individual who downloads or otherwise attempts to access or use apps, including, associated with the frozen account. To the extent that an XCMania user account remains past due for more than ninety (90) consecutive days, the parties hereto understand and agree that XCMania may, in its sole discretion and without notice to the user who created or maintains the account, cancel the account and delete any information, including apps or app content, maintained by XCMania in association with that user account. Any such cancellation and/or deletion of information or content maintained by XCMania will in no manner constitute a waiver of XCMania’s right to all past due amounts, which amounts will remain due to XCMania and owed by the user.
 
-# Proprietary Rights
+## Proprietary Rights
 XCMania owns all right, title and interest in and to the XCMania Platform including, without limitation, all intellectual and proprietary rights appurtenant thereto, and, except for the limited license granted to you herein, nothing in this TOS shall be construed to transfer, convey, impair or otherwise adversely affect XCMania’s ownership or proprietary rights therein or any other XCMania information or materials, tangible or intangible, in any form and in any medium. XCMania, app-press.com, and the XCMania logo, and all other trademarks, service marks, graphics and logos used in connection with the XCMania Platform, are trademarks or registered trademarks of XCMania or XCMania’s licensors. Other trademarks, service marks, graphics and logos used in connection with the XCMania Platform may be the trademarks of other third parties. Your use of the XCMania Platform grants you no right or license to reproduce or otherwise use any XCMania or third-party trademarks.
 
-# Changes
+## Changes
 XCMania reserves the right, at its sole discretion, to modify or replace any part of these TOS. It is your responsibility to check these TOS periodically for changes. Your continued use of or access to the XCMania Platform following the posting of any changes to these TOS constitutes acceptance of those changes. XCMania may also, in the future, offer new services and/or features through the XCMania website or in conjunction with the XCMania Platform (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of these TOS.
 
-# Data Collection and Use
+## Data Collection and Use
 You hereby agree that XCMania, its parent, subsidiaries, affiliates, and their respective successors and assigns, may collect and use certain technical information associated with your use of the XCMania product, including, without limitation, any information provided in connection with any support or technical services for the XCMania product.
 
-# Termination
+## Termination
 XCMania has the right to terminate this license and your right to use the XCMania product at any time for any reason, including in the event XCMania reasonably believes you have failed to comply with any term or condition of these TOS. If this license or your right to use the XCMania product terminates for any reason, you must stop all use of the XCMania product and either return to XCMania or destroy the XCMania product and all copies of the XCMania product that are in your possession or under your control. XCMania may ask you to certify your compliance with the foregoing in writing, and you agree to do so if XCMania makes such a request.
 
-# Disclaimer of Warranties
+## Disclaimer of Warranties
 THERE ARE NO REPRESENTATIONS OR WARRANTIES THAT APPLY OR THAT ARE MADE TO YOU IN ANY WAY IN CONNECTION WITH THE XCMania product OR THESE TOS. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE XCMania product AND YOUR ACCESS TO AND USE THEREOF, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR ANY WARRANTIES OF TITLE, NON-INFRINGEMENT AND/OR ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE.
 
 WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, THE XCMania product IS MADE AVAILABLE TO YOU ON AN “AS IS” AND “AS AVAILABLE” BASIS AND XCMania DOES NOT GUARANTEE, WARRANT OR REPRESENT THAT THE XCMania product SHALL MEET YOUR REQUIREMENTS OR THAT YOUR USE, OPERATION OR RESULTS OF USE OF THE XCMania PLATFORM OR XCMania product SHALL BE UNINTERRUPTED, COMPLETE, RELIABLE, ACCURATE, CURRENT, ERROR-FREE, FREE OF COMPUTER VIRUSES OR OTHERWISE SECURE. YOU ASSUME THE ENTIRE RISK OF DOWNLOADING, INSTALLING, COPYING, OPERATING, USING AND/OR DISTRIBUTING THE XCMania PLATFORM AND/OR XCMania product.
 
-# Limitations on Liability
+## Limitations on Liability
 IN NO EVENT SHALL XCMania, ITS OFFICERS, DIRECTORS, EMPLOYEES, PARTNERS OR SUPPLIERS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER, INCLUDING THOSE RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT FORESEEABLE OR IF XCMania HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT OR WARRANTY, NEGLIGENCE OR OTHER TORTIOUS ACTION, OR ANY OTHER CLAIM ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR ACCESS TO THE XCMania PLATFORM, XCMania product OR ANY OTHER XCMania SERVICES. NOTHING IN THE TERMS SHALL LIMIT OR EXCLUDE XCMania’S LIABILITY FOR INTENTIONAL MISCONDUCT OF XCMania OR ITS EMPLOYEES.
 
 XCMania’S AGGREGATE LIABILITY AND THAT OF ITS AFFILIATES AND SUPPLIERS UNDER OR IN CONNECTION WITH THIS AGREEMENT SHALL BE LIMITED TO ONE HUNDRED UNITED STATES DOLLARS ($100) OR THE AGGREGATE AND ACTUAL AMOUNT PAID BY YOU FOR UP TO THREE MONTHS OF SUBSCRIPTION TO THE XCMania PLATFORM AND/OR XCMania product, WHICHEVER IS LARGER. THIS LIMITATION WILL APPLY EVEN IF XCMania HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. 
 
 THE LIMITATIONS AND EXCLUSIONS IN THIS SECTION 12 APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW IN YOUR JURISDICTION. SOME JURISDICTIONS PROHIBIT THE EXCLUSION OR LIMITATION OF LIABILITY FOR INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES. ACCORDINGLY, THE LIMITATIONS AND EXCLUSIONS SET FORTH ABOVE MAY NOT APPLY TO YOU.
 
-# General Representation and Warranty
+## General Representation and Warranty
 You represent and warrant that (i) your use of the XCMania Platform and XCMania product will be in strict accordance with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of the XCMania Platform and XCMania product will not infringe or misappropriate the intellectual property rights of any third party.\
 
-# Indemnification
+## Indemnification
 You agree to defend XCMania, its parents, subsidiaries, affiliates and/or their respective successors and assigns, officers, directors, employees, agents, licensors, representatives, advertisers, business and promotional partners, operational service providers, suppliers, resellers and contractors (the “XCMania Indemnified Parties”) against any and all claims, demands and/or actions and indemnify and hold the XCMania Indemnified Parties harmless from and against any and all losses, damages, costs and expenses (including reasonable attorneys’ fees), resulting from any breach or violation of these TOS, infringement, misappropriation or any violation of the rights of any other party, violation or non-compliance with any law or regulation, the breach or violation of any term or condition of these TOS, any use, alteration or export of the XCMania Platform or XCMania product or otherwise in connection with these TOS. XCMania reserves the right to assume, at its expense, the exclusive defense and control of any claims or actions and all negotiations for settlement or compromise, and you agree to fully cooperate with us upon our request.
 
-# Export Restrictions
+## Export Restrictions
 XCMania may be subject to certain export restrictions of the United States Government. If you are (a) in a country to which export from the United States is restricted for anti-terrorism reasons, or a national of any such country, wherever located, (b) in a country to which the United States has embargoed or restricted the export of goods or services, or a national of any such country, wherever located, or (c) a person or entity who has been prohibited from participating in United States export transactions by any agency of the United States Government, then you may not install, download, access, use, or license our XCMania Platform or XCMania product. By accepting this License, you warrant and represent to XCMania that (1) you do not match the criteria set forth in (a), (b), or (c) above, (2) that you will not export or re-export the XCMania Platform or XCMania product to any country, person, or entity subject to U.S. export restrictions, including those persons and entities that match the criteria set forth in (a), (b), or (c) above, and (3) that neither the United States Bureau of Industry and Security, nor any other U.S. federal agency, has suspended, revoked, or denied your export privileges.
 
-# Governing Law and Dispute Resolution
+## Governing Law and Dispute Resolution
 All matters relating to these TOS and your access to, or use of, the XCMania Platform or XCMania product shall be governed by the Laws of the State of Indiana, United States of America without regard to conflict of laws principles thereof. You agree that any claim or dispute you may have against XCMania, including any claim or dispute relating to these TOS, to the XCMania Platform, or to the XCMania product, must be resolved by a State or Federal court located in Marion County, Indiana, United States of America. You agree to submit to the personal jurisdiction of the courts located in Marion County, Indiana, United States of America for the purpose of litigating any such claims or disputes or any claims or disputes that XCMania may have against you. The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods.
 
 Notwithstanding the foregoing, in the event of your or others’ unauthorized access to, or use of, the XCMania product in violation of these TOS, you agree that XCMania shall be entitled to apply for injunctive relief in any jurisdiction at XCMania’s sole discretion.
 
-# General Terms
+## General Terms
 No amendment, modification, waiver or discharge of any provision of these TOS shall be valid unless made in writing and signed by an authorized representative of XCMania. No failure or delay by XCMania to exercise any right or enforce any obligation shall impair or be construed as a waiver or on-going waiver of that or any or other right or power, unless made in writing and signed by XCMania. These TOS constitute the entire agreement between XCMania and you with respect to your access to or use of the XCMania Platform and/or XCMania product and supersede any prior agreements between you and XCMania on such subject matter. You may not assign or otherwise transfer these TOS, or any right granted hereunder, without XCMania’s written consent. XCMania’s rights under these TOS are freely transferable by XCMania. If any provision of these TOS is held to be illegal, invalid or unenforceable, the remaining provisions of these TOS shall be unimpaired and remain in full force and effect. These TOS will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
