@@ -11,6 +11,8 @@ Next gen flight computer designed for paraglider and hang glider pilots.
  - [x] Competition race route planning
 
 
+
 # Links
+* [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
 * [Privacy](https://www.xcmania.com/privacy)
 * [Report a Bug](https://github.com/solocatz/XCMania/issues)
