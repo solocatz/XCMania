@@ -11,6 +11,9 @@ Next gen flight computer designed for paraglider and hang glider pilots.
  - [x] Competition race route planning
 
 
+# Flight Claim
+
+If you have validation issue with submit flight to Leonardo XC server or other online competition site. Please ask site owner to integrate XCMania validation tool. It's a open source project on Github: [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
 
 # Links
 * [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
