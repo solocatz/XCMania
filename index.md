@@ -1,19 +1,41 @@
 
-Next gen flight computer designed for paraglider and hang glider pilots.
+Turn the world’s most powerful mobile phone into a flight computer.
+ 
+The definition of computer here is to utilize massive computing power but not limit it to show a few nav-boxes.
+ 
+Here is XCMania:
+ 
+- Team Fly - always stay online, as low as 1k ~ 25k data transfer per pilot per hour, team pilots would alway on your XC screen while flying no matter how far away they are. And there is a one-click retrieve button.
+- The first flight computer shows real time 3D thermal shape. Yes, you do have a powerful GPU in hand.
+- Mania Circle helps you to visualize thermal hunting range.
+- Thermal meter helps you lock down the core, is this circle better than the last one or is it faded out.
+- Intuitive design, this is 2020, try not to be an old kinky black box with 196 pages of manual. 
+ 
+And many more.
+ 
+What XCMania does here is make as much computing and visualization as possible to save your brain power for important flight decisions.
+ 
+- Worldwide map, elevation and airspace automatic match and download.
+- Global airspace and obstacles in the Alps area, and scheduled hot update.
+- Support Airdrop/download WPT, CUP to import waypoints.
+- Support Airdrop/download any IGC to replay.
+- Support Bluetooth 4(BLE) vario like XCTracer for world class accuracy
+- Support Bluetooth FLARM devices
+- OLED screen protection technology
+- What you see is what you get, by just browsing the map, everything relevant would be automatically downloaded.
+ 
+Reminders
+ 
+A powerpack is always a good idea for flights longer than 3 hours. 
 
- - [x] Realtime 3D track as thermal analyzer  
- - [x] Worldwide high-fidelity terrain map,  elevation data and airspace matching and download in background. 
- - [x] Intuitive design, no more 159 pages manual required before use
- - [x] Mania Circle expend the limit of you thermal finding.
- - [x] Unleash the power of world’s best mobile device
- - [x] No more USB cable, SD card.
- - [x] Safety matters, XCMania provides airspace as free.
- - [x] Competition race route planning
 
+# Download
+
+[Download from AppStore](https://apps.apple.com/app/xcmania/id1494610953?mt=8)
 
 # Flight Claim
 
-If you have validation issue with submit flight to Leonardo XC server or other online competition site. Please ask site owner to integrate XCMania validation tool. It's a open source project on Github: [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
+If you have validation issue with submit flight to Leonardo XC server or other online competition site. Please connect site owner to integrate XCMania validation tool. It's a open source project on Github: [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
 
 # Links
 * [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
