@@ -7,18 +7,19 @@
 
 ## 手机需求
 
-[x] 需要Android 9.0或更高手机（相当于2018年购买的手机）
-[x] 需要配备有气压传感器的手机 / 或者连接蓝牙高度表使用
+- [x] 需要Android 9.0或更高手机（相当于2018年购买的手机）
+- [x] 需要配备有气压传感器的手机 / 或者连接蓝牙高度表使用。诸如中国的“蜻蜓”或瑞士的XCtracer等等。
 
-没有屏幕的高度表通常带蓝牙功能，诸如中国的“蜻蜓”或瑞士的XCtracer等等。
 
 ## 下载地址
 
-[中国安卓1.3.1147](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/varometer-china.rc1.apk)
+[点击这里下载： 中国安卓 XCMania 1.3.1147](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/varometer-china.rc1.apk)
+
+下载后请根据提示前往微店购买年卡即可激活应用。
 
 ## 应用截屏
 
-![AppImg](/img/cnAirspace -1242x2688.png)
+![AppImg](img/cnAirspace -1242x2688.png)
 
 ## 其他
 
