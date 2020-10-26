@@ -24,3 +24,11 @@
 ## 其他
 
 如需最新情报，可在抖音关注 “XCMania”
+
+## 苹果手机用户 
+
+[前往苹果应用商店](https://apps.apple.com/app/xcmania/id1494610953?mt=8)
+
+![AppStore](../img/XCMania-applestore.PNG)
+
+也可在苹果店中搜索XCMania或“野飞达人”。
