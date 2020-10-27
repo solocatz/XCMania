@@ -9,7 +9,7 @@
 
 ## 下载地址
 
-[点击这里下载： 中国安卓 XCMania 1.4](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/varometer-china.1.4.apk)
+[点击这里下载： 中国安卓 XCMania 1.4](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.4.apk)
 
 或扫描二维码下载
 ![AppStore](img/android1.4.png)
