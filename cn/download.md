@@ -33,7 +33,7 @@ XCMania在飞行中计算量与3D渲染比9年前的那些软件高一个量级�
 
 # 苹果手机用户 
 
-[前往苹果应用商店](https://apps.apple.com/app/xcmania/id1494610953?mt=8)
+[前往苹果应用商店](https://apple.co/35F674G)
 
 扫码二维码前往苹果店
 ![AppStore](img/cn-appstore.png)
