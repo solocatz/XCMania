@@ -16,10 +16,12 @@ XCMania在飞行中计算量与3D渲染比9年前的那些软件高一个量级�
 
 ## 下载地址
 
-[点击这里下载： 中国安卓 XCMania 1.4](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.4.apk)
+[百度盘链接](https://pan.baidu.com/s/1cQOfzMmk9pOFzW9QYxATTA)
 
-或扫描二维码下载
-![AppStore](img/android1.4.png)
+链接: https://pan.baidu.com/s/1cQOfzMmk9pOFzW9QYxATTA 提取码: htmu 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+百度盘下载
+![百度盘下载](img/XCMFolderBaiduQR.jpeg)
 
 下载后请根据提示前往微店购买年卡即可激活应用。
 
