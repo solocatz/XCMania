@@ -28,6 +28,11 @@ Reminders
  
 A powerpack is always a good idea for flights longer than 3 hours. 
 
+# Resources
+
+[Wiki](https://github.com/solocatz/XCMania/wiki)
+
+[Bug Report](https://github.com/solocatz/XCMania/issues)
 
 # Download
 
