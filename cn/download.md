@@ -1,16 +1,23 @@
 # XCMania中国市场版
-## 下载地址
+## 安卓手机用户
 
 
-[下载 XCMania 中国版1.5](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.apk)
+[安卓手机下载 XCMania 中国版1.5](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.apk)
 
 请注意，微信中无法打开链接并下载，请使用手机浏览器打开：
 
 https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.apk
 
+安卓手机用户下载后请根据提示前往微店购买年卡即可激活应用。
 
-下载后请根据提示前往微店购买年卡即可激活应用。
+## 苹果手机用户 
 
+[前往苹果应用商店](https://apps.apple.com/cn/app/%E9%87%8E%E9%A3%9E%E8%BE%BE%E4%BA%BA/id1494610953?itsct=apps_box&itscg=30200)
+
+扫码二维码前往苹果店
+![AppStore](img/cn-appstore.png)
+
+也可在苹果店中搜索XCMania或“野飞达人”。
 
 ## 新人免费
 
@@ -34,14 +41,7 @@ https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.apk
 
 如需最新情报，可在抖音关注 “XCMania”
 
-# 苹果手机用户 
 
-[前往苹果应用商店](https://apps.apple.com/cn/app/%E9%87%8E%E9%A3%9E%E8%BE%BE%E4%BA%BA/id1494610953?itsct=apps_box&itscg=30200)
-
-扫码二维码前往苹果店
-![AppStore](img/cn-appstore.png)
-
-也可在苹果店中搜索XCMania或“野飞达人”。
 
 
 ## 中国完全自主知识产权
