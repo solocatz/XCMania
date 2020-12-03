@@ -1,6 +1,11 @@
 # XCMania中国市场版
+## XCMania QQ支持群
+
+群号:  370510506
+
 ## 安卓手机用户
 
+安卓用户可入QQ群下载。
 
 [安卓手机下载 XCMania 中国版1.5](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.apk)
 
