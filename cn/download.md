@@ -4,7 +4,7 @@
 
 [安卓手机下载 XCMania 中国版1.5](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.apk)
 
-请注意，微信中无法打开链接并下载，请使用手机浏览器打开：
+请注意，微信中有可能无法打开链接并下载，如遇到此种状况请使用手机浏览器打开：
 
 https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.apk
 
