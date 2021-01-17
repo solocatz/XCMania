@@ -6,7 +6,7 @@
 
 ## 安卓手机用户
 
-[安卓手机下载 XCMania 中国版1.5.3](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.3-release.apk)
+[安卓手机下载 XCMania 中国版1.5.6](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.6-release.apk)
 
 请注意，微信禁止打开链接并下载安装程序，请点击右上角，在浏览器中打开链接。如下图。
 ![OpenInBrowser](img/openinbrowser.jpg)
