@@ -4,9 +4,15 @@
 
 如需最新情报，可在抖音关注 “XCMania”
 
+##
+
+更新 1.6 ：
+- 增加2000GB的全球高精度高程图。是的，数据总量超过2TB。
+- 改善地图缩放体验。
+
 ## 安卓手机用户
 
-[安卓手机下载 XCMania 中国版1.5.6](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.5.6-release.apk)
+[安卓手机下载 XCMania 中国版1.6](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.6.apk)
 
 请注意，微信禁止打开链接并下载安装程序，请点击右上角，在浏览器中打开链接。如下图。
 ![OpenInBrowser](img/openinbrowser.jpg)
