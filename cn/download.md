@@ -11,12 +11,14 @@
 - 增加1000GB的全球高精度高程图。是的，数据总量超过1TB。
 - 改善地图缩放体验。
 
-## 安卓手机用户
+## 中国安卓手机用户
 
-[安卓手机下载 XCMania 中国版1.6](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.6.apk)
+[微信/QQ云下载](https://share.weiyun.com/SuMtQ9i6)
 
-请注意，微信禁止打开链接并下载安装程序，请点击右上角，在浏览器中打开链接。如下图。
-![OpenInBrowser](img/openinbrowser.jpg)
+微信下载apk安装包后，文件名会被修改导致无法安装。
+[百度知道 如何安装微信下载的安装包](https://zhidao.baidu.com/question/305162431448848164.html)
+
+[浏览器下载 XCMania 中国版1.6](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.6.apk)
 
 安卓手机用户下载后请根据提示前往微店购买年卡即可激活应用。
 
@@ -29,7 +31,7 @@
 
 也可在苹果店中搜索“XCMania”或“野飞达人”。
 
-## 海外Android用户
+## Google Android用户
 
 前往谷歌商店搜索 “XCMania”。
 
