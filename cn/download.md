@@ -13,14 +13,21 @@
 
 ## 中国安卓手机用户
 
-[微信/QQ云下载](https://share.weiyun.com/SuMtQ9i6)
 
-微信下载apk安装包后，文件名会被修改导致无法安装。
+需要使用手机浏览器打开本页面，然后下载，其他应用（如微信）都可能无法打开安装包下载链接。
+
+![请在浏览器中打开](img/openinbrowser.jpg)
+
+[浏览器下载 XCMania 中国版APK](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.6.apk)
+
+安卓手机用户下载后请先测试使用，免费记录飞行时间20分钟，不限制飞行次数，不限制时间。
+
+如测试结果满意，可根据提示前往微店购买年卡即可激活应用。年卡激活后绑定手机，不会因删除应用而丢失。
+
+
+## 微信传输apk安装包后，无法安装
+微信会将文件名会被修改导致无法安装。
 [百度知道 如何安装微信下载的安装包](https://zhidao.baidu.com/question/305162431448848164.html)
-
-[浏览器下载 XCMania 中国版1.6](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.6.apk)
-
-安卓手机用户下载后请根据提示前往微店购买年卡即可激活应用。
 
 ## 苹果手机用户 
 
