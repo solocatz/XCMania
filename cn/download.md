@@ -6,6 +6,12 @@
 
 ## 更新
 
+更新 1.7:
+
+- 更好的3D气流成像。
+- 飞行轨迹3D展示分析。
+- 在弱GPS信号下获取正确的修正海压。
+
 更新 1.6 ：
 
 - 增加1000GB的全球高精度高程图。是的，数据总量超过1TB。
@@ -18,7 +24,7 @@
 
 ![请在浏览器中打开](img/openinbrowser.jpg)
 
-[浏览器下载 XCMania 中国版APK](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.6.apk)
+[浏览器下载 XCMania 中国版APK](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.7.apk)
 
 安卓手机用户下载后请先测试使用。免费版单次飞行限制记录20分钟，不限制飞行次数，试用多久都可以。
 
