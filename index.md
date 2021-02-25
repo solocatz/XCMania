@@ -38,6 +38,8 @@ A powerpack is always a good idea for flights longer than 3 hours.
 
 [Download from AppStore](https://apps.apple.com/app/xcmania/id1494610953?mt=8)
 
+[Download from Google Play](https://play.google.com/store/apps/details?id=com.XCMania)
+
 # Flight Claim
 
 If you have validation issue with submit flight to Leonardo XC server or other online competition site. Please connect site owner to integrate XCMania validation tool. It's a open source project on Github: [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
@@ -45,4 +47,5 @@ If you have validation issue with submit flight to Leonardo XC server or other o
 # Links
 * [XCMania IGC Validator](https://github.com/solocatz/XCManiaValidateTool)
 * [Privacy](https://www.xcmania.com/privacy)
+* [Terms](https://www.xcmania.com/terms)
 * [Report a Bug](https://github.com/solocatz/XCMania/issues)
