@@ -6,6 +6,10 @@
 
 ## 更新
 
+更新 1.7.3:
+
+- 适配低内存安卓机 
+
 更新 1.7.2:
 
 - 修复了无气压计安卓机不能获取GPS速度无法起飞的问题。
@@ -20,7 +24,7 @@
 
 ![请在浏览器中打开](img/openinbrowser.jpg)
 
-[浏览器下载 XCMania 中国版APK](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.7.2.apk)
+[浏览器下载 XCMania 1.7.3 中国版APK](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.1.7.3.apk)
 
 安卓手机用户下载后请先测试使用。免费版单次飞行限制记录20分钟，不限制飞行次数，试用多久都可以。
 
