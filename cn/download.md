@@ -7,7 +7,7 @@
 
 ## 中国安卓手机用户
 
-[浏览器下载 XCMania 2.0。0 中国版APK](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.2.0.0.apk)
+[浏览器下载 XCMania 2.0 中国版APK](https://xcm1.s3-ap-southeast-1.amazonaws.com/china/xcm-china.2.0.0.apk)
 
 安卓手机用户下载后请先测试使用。免费版单次飞行限制记录20分钟，不限制飞行次数，试用多久都可以。
 
