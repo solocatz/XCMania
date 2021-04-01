@@ -1,8 +1,8 @@
 
 Turn the world’s most powerful mobile phone into a flight computer.
 
-[![AppStore](img/apple.png)](https://apple.co/2PPys3O)
-[![Google](img/google.png)](https://play.google.com/store/apps/details?id=com.XCMania)
+[![AppStore](img/apple.png?s=200)](https://apple.co/2PPys3O)
+[![Google](img/google.png?s=200)](https://play.google.com/store/apps/details?id=com.XCMania)
 
 The definition of computer here is to utilize massive computing power but not limit it to show a few nav-boxes.
 
