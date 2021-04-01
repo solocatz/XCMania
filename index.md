@@ -36,7 +36,7 @@ A powerpack is always a good idea for flights longer than 3 hours.
 
 # Download
 
-[Download from AppStore](https://apps.apple.com/app/xcmania/id1494610953?mt=8)
+[Download from AppStore](https://apple.co/2PPys3O)
 
 [Download from Google Play](https://play.google.com/store/apps/details?id=com.XCMania)
 
