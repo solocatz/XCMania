@@ -1,8 +1,11 @@
 
 Turn the world’s most powerful mobile phone into a flight computer.
- 
+
+[![AppStore](img/apple.png])](https://apple.co/2PPys3O)
+[![Google](img/google.png])](https://play.google.com/store/apps/details?id=com.XCMania)
+
 The definition of computer here is to utilize massive computing power but not limit it to show a few nav-boxes.
- 
+
 Here is XCMania:
  
 - Team Fly - always stay online, as low as 1k ~ 25k data transfer per pilot per hour, team pilots would alway on your XC screen while flying no matter how far away they are. And there is a one-click retrieve button.
