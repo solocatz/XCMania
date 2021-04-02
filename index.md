@@ -32,11 +32,9 @@ Reminders
  
 A powerpack is always a good idea for flights longer than 3 hours. 
 
-# Resources
+# Data Center
 
-[Wiki](https://github.com/solocatz/XCMania/wiki)
-
-[Bug Report](https://github.com/solocatz/XCMania/issues)
+All XCMania services are based on Amazon.com, data center located in Singaore and Los Angeles. 
 
 # Download
 
