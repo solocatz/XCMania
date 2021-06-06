@@ -1,6 +1,8 @@
 
 Turn the world’s most powerful mobile phone into a flight computer.
 
+If you have both iPhone & Android, use iPhone as hardware/sensor quality is much better.
+
 [![apple](https://www.xcmania.com/img/apple.png)](https://apple.co/2PPys3O)
 
 [![google](https://www.xcmania.com/img/google.png)](https://play.google.com/store/apps/details?id=com.XCMania)
@@ -32,11 +34,9 @@ Reminders
  
 A powerpack is always a good idea for flights longer than 3 hours. 
 
-# Resources
+# Data Center
 
-[Wiki](https://github.com/solocatz/XCMania/wiki)
-
-[Bug Report](https://github.com/solocatz/XCMania/issues)
+All XCMania services are based on Amazon.com, data center located in Singaore and Los Angeles. 
 
 # Download
 
