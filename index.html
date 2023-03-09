@@ -1,8 +1,28 @@
 <html>
 
 <head>
-    <meta http-equiv="refresh"
-        content="0; url=https://historical-promise-952.notion.site/XCMania-18fe44d57922410aa911e44e7818c298" />
+    <!--meta http-equiv="refresh"
+        content="0; url=https://historical-promise-952.notion.site/XCMania-18fe44d57922410aa911e44e7818c298" /-->
+    <script>
+        var global = "https://historical-promise-952.notion.site/XCMania-18fe44d57922410aa911e44e7818c298"
+        var cn = "https://www.yuque.com/xcmcn"
+
+        //获取用户语言的顺序是
+        //1.获取本地缓存里的内容
+        //2.用户浏览器的语言设置
+        //如果上面2个都没有获取到，就直接使用'en'作为用户选择的语言
+        var language = localStorage.getItem('locale') || window.navigator.language.toLowerCase() || 'en'
+
+        //把用户的语言写入缓存，供下次获取使用
+        localStorage.setItem('locale', language)
+
+        //判断用户的语言，跳转到不同的地方
+        if (language.indexOf("zh-") !== -1) {
+            window.location = cn
+        } else {
+            window.location = global
+        }        
+    </script>
 </head>
 
 </html>
