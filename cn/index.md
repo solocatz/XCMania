@@ -11,3 +11,9 @@
 ## 下载App
 
 * [点击这里下载XCMania App](/download.html)
+
+## 其他滑翔伞相关App
+
+请注意对于第三方App， XCMania无法提供技术支持哦～
+
+[天气预报 Windy.com](https://https://fir.xcxwo.com/jzr279)

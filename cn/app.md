@@ -71,7 +71,6 @@
 
 **国际标准的在线联赛开放距离标准。在起飞与降落场之外的轨迹上选择三个转弯点，使得轨迹呈现最长的5条边。**
 
-
 # 设置
 
 ## 神奇气流圈预留离地高度
@@ -150,8 +149,6 @@
 # LiveTrack24
 
 **XCMania支持LiveTrack24通联，并将LiveTrack24网站作为安全追踪与回收定位工具。**
-
-[各种仪表如何接通 LiveTrack24](https://www.yuque.com/xcmcn/xc/cmdm22)
 
 # XCMania常见问答
 
