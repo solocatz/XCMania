@@ -16,4 +16,4 @@
 
 请注意对于第三方App， XCMania无法提供技术支持哦～
 
-[天气预报 Windy.com](https://https://fir.xcxwo.com/jzr279)
+[天气预报 Windy.com](https://xcm1.s3.ap-southeast-1.amazonaws.com/update/Windy.com+-+Weather+Forecast_41.2.3_Apkpure.apk)
