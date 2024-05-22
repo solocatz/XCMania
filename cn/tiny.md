@@ -54,15 +54,19 @@
 
 **AverageLiftIntegration=20** **平均爬升率统计时长(秒)。**
 
-**GlideRatioIntegration=20** ** **滑降比的统计时长(秒)。
+**GlideRatioIntegration=20** 滑降比的统计时长(秒)。
 
-**Timezone=100** ** **时区，设置为100将自动设定时区。也可以设置为您需要的行政时区。
+Sensitivity=0.5  加速度传感器敏感度，数字越大灵敏度越高，建议取值在0.1~1之间，默认0.3。
+
+LanguageLan=zh 显示语言，en为英语，默认为中文。
+
+Timezone=100 时区，设置为100将自动设定时区。也可以设置为您需要的行政时区。
 
 **[pilot]**
 
-**Name=****XCManiaPilot** ** **飞行员姓名，根据FAI规则仅限英文。
+Name=XCManiaPilot 飞行员姓名，根据FAI规则仅限英文。
 
-**Manufacturer=** **Gin** ** **滑翔伞制造厂，根据FAI规则仅限英文，诸如Advance、Gin、Ozone。
+**Manufacturer=** **Gin** ** 滑翔伞制造厂，根据FAI规则仅限英文，诸如Advance、Gin、Ozone。
 
 **Glider=** **Explorer** **滑翔伞型号，根据FAI规则仅限英文，诸如Rush6、Delta4。**
 
