@@ -131,12 +131,12 @@ Name=XCManiaPilot 飞行员姓名，根据FAI规则仅限英文。
 
 ### 固件升级下载
 
-#### v1.5
+#### v1.6
 
 * 支持气流助手
-* 支持数个隐藏功能: 起飞前保持安静等、英文版、灵敏度调整等
+* 支持数个隐藏功能: 时区、起飞前保持安静等、英文版、灵敏度调整等
 
-[点击此处下载 1.5升级](https://www.xcmania.cn/bin/XCManiaR.v1.5.rc1.bin.zip)
+[点击此处下载 1.6升级](https://www.xcmania.cn/bin/XCManiaR.v1.6.zip)
 
 # 注意事项
 
