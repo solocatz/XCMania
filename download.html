@@ -1,25 +1,33 @@
 <html>
 <header>
     <script>
-function downApp(){
-    var u = navigator.userAgent, 
-    isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1,
-    isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/),
     urls = {
         'android':'https://www.xcmania.cn/apk/xcm-7.19.apk',
-        'ios':'https://apps.apple.com/cn/app/野飞达人/id1494610953',
-        'other':'/qr.html'
+        'ios':'https://apps.apple.com/cn/app/野飞达人/id1494610953'
     };
+
+function downApp(){
+    var u = navigator.userAgent,
+    isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1,
+    isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/)
     //简化
     if(isAndroid){
         window.location.href=urls.android;
     }else if(isiOS){
         window.location.href=urls.ios;
-    }else{
-        window.location.href=urls.other;
     }
 }
 downApp();
 </script>
 </header>
+<body> 
+    <h1>XCMania Download</h1>   
+    <hr>
+    <script>
+        document.write("<p><a href=" + urls.android + ">Android Download</a></p>")        
+    </script>
+    <hr>
+    Apple Download:<br>
+    <img src="images/qr/1712046016617.png">
+</body>
 </html>
