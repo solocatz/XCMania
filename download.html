@@ -3,7 +3,8 @@
     <script>
     urls = {
         'android':'https://www.xcmania.cn/apk/xcm-7.19.apk',
-        'ios':'https://apps.apple.com/cn/app/野飞达人/id1494610953'
+        'ios':'https://apps.apple.com/cn/app/野飞达人/id1494610953',
+        'other' : "/qr.html"
     };
 
 function downApp(){
@@ -16,18 +17,14 @@ function downApp(){
     }else if(isiOS){
         window.location.href=urls.ios;
     }
+    else {
+        window.location.href=urls.other;
+    }
 }
 downApp();
 </script>
 </header>
 <body> 
-    <h1>XCMania Download</h1>   
-    <hr>
-    <script>
-        document.write("<p><a href=" + urls.android + ">Android Download</a></p>")        
-    </script>
-    <hr>
-    Apple Download:<br>
-    <img src="images/qr/1712046016617.png">
+
 </body>
 </html>
