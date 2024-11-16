@@ -168,12 +168,7 @@ ClimbToneOffThreshold=****0.15** **** **气流音停响阀值，默认0.15m/s。
 
 ### 固件升级下载
 
-**v1.18 (2024.3)**
-
-**修复了小概率事件，通过蓝牙传出的爬升率反应较慢与不归零问题。**
-
-[点击下载： Alps3 v1.18](https://xcm1.s3.ap-southeast-1.amazonaws.com/update/Alps3-upgrade.1.18.zip)
-
+[点击前往固件升级下载页](upgrade.md)
 
 # 注意事项
 
